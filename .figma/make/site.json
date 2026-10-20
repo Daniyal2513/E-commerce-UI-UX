@@ -1,0 +1,10 @@
+{
+  "description": "Experience a premium e-commerce platform for avant-garde contemporary clothing, featuring a minimalist design, intuitive navigation, and high-fashion aesthetics.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
